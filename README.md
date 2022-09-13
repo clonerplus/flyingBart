@@ -11,7 +11,7 @@ the cmake to work for your needs as it was written for
 mac
 
 
-# Dependencies
+## Dependencies
 this project requires ```GLUT``` as window manager
 
 ## Usage
@@ -28,5 +28,8 @@ this project requires ```GLUT``` as window manager
 
 `r` -> Bart stops walking or flies flat if it was flying
 
+<img src="https://github.com/clonerplus/flyingBart/blob/main/flyingBart.gif" alt="" data-canonical-src="" width="200" height="400" />
 
+## Copyright
+this project should have been a fork from https://github.com/imhenoch/walking_bart, but I decided not to
 
